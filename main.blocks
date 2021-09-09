@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="efw8-vxW=T5+++Ou:Z[d">INICIO</variable><variable id="Fq$V{aw?u+4ZU%);8;2a">Issa &lt;3 5°</variable></variables><block type="device_forever" id="[.ZVK[q[Pn5v/#Wd2}OI" x="292" y="120"><statement name="HANDLER"><block type="device_show_leds" id="MruV?Vz.+/R7$~9/hT,."><field name="LEDS">`
+        . . . . . 
+        . # . . # 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field></block></statement></block></xml>
